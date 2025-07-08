@@ -1,4 +1,6 @@
-﻿namespace SampleProject
+﻿using Microsoft.VisualBasic;
+
+namespace SampleProject
 {
     internal class Program
     {
@@ -10,6 +12,8 @@
 
             //rebase
             //rebase from master
+
+            //rebase from my branhc 
         }
     }
 }
