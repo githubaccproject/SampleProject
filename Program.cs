@@ -7,8 +7,6 @@
             Console.WriteLine("Hello, World!");
 
             //santhosh
-            //ss
-            //zz
         }
     }
 }
